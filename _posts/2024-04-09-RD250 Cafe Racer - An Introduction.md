@@ -16,7 +16,7 @@ img_path: /assets/img/
 
 I went to pick up my newest garage endeavor last Friday morning, a 1975 Yamaha RD250, destined to become a café racer. I was anxious as I made circles around the bike at the sellers house, trying to look and sound somewhat confident that I knew what I was talking about.  A healthy dose of research got me up to speed pretty quickly the night before. The bike was in decent shape, but had enough wrong with it that it would need some TLC before it could be trusted as a “daily runner”. The seller had a garage full of interesting and rare mopeds that were higher on his project priority list than the RD, so he was looking to get back what he paid for it originally and be done with it.
 
-![rd250.jpg]
+![rd250.jpg](rd250.jpg)
 
 # Known Issues
 
@@ -42,11 +42,11 @@ STEP 1 for me is going to be the cylinder issues. I’m going to take apart the 
 
 First off – this thing is a blast to ride, even in its stock form. The 6k power band surprised me the first time, but then it was ear-to-ear grins. It’ll be hard to not get to rid the thing while it’s taken apart, but I’m excited by the prospect of what it will be when it’s all said and done.
 
-![](https://www.youtube.com/watch?v=WGu4imqnq08)
+{% include embed/youtube.html id='WGu4imqnq08' %}
 
 Once I start taking it apart, I’ll have to get my moto fix on my Vstrom, who I think is already jealous of the attention-stealing addition to the family.
 
-![bikes_in_garage.jpg]
+![bikes_in_garage.jpg](bikes_in_garage.jpg)
 
 Additionally, I’ve found several inspiring pics of builds I’d like to pull features from on my own conversion.
 
