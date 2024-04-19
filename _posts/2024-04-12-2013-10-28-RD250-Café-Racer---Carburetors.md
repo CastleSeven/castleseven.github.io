@@ -3,7 +3,6 @@ title: "RD250 Café Racer - Carburetors"
 date: 2013-10-28 16:28 -0500
 categories: [Mechanical, Motorcycles]
 tags: [cafe-racer, garage, rd250]
-img_path: /assets/img/
 ---
 
 ## Introduction
