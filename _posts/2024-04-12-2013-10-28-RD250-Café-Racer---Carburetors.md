@@ -27,7 +27,7 @@ _Carbs linked by small hose_
 ## Carb Cleaning
 With both carbs out of the bike, now we need to disassemble everything, removing all rubber and nylon parts so we can get things cleaned chemically. I shot this video of the right side being disassembled. The left side is nearly identical, with exception of the choke assembly.
 
-![](https://www.youtube.com/watch?v=vCB5Bi6Q4m4)
+{% include embed/youtube.html id='vCB5Bi6Q4m4' %}
 
 The jets in this bike don’t match the manufacturer stock specifications. I’m not really surprised, the PO mentioned he re-jetted the carbs in an effort to fix the fouling issue. And I’ll likely have to re-jet, especially after I start messing with the exhaust. But for now, the pilot jet is a size 25 VM22/210 (stock is size 40), and the main jet is sized at 150 (not sure what model jet it is, stock size is 110). The jet needle (long, thin piece from the throttle valve assembly) is a 5I4 (stock is 5DP7). Circlip is on the 2nd from the bottom notch.
 
